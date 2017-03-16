@@ -9,7 +9,7 @@ int main()
 setlocale(LC_ALL,"RUSSIAN");
 cout<<"Проверка ввода и вывода строк\n";   
 
-for(int i=0;i<10;i++)
+for(int i=0;i<15;i++)
 printf("Hello world\n");
 
 return 0;
