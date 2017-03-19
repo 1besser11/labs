@@ -78,9 +78,9 @@ fclose(f);
 //cout<<t[1].points;
 int tz=0;
 team temp;
-for(int i = 0; i < n1;i++) // i - номер прохода
+for(int i = 0; i < n1;i++)
     {            
-        for(int j = 0; j < n1; j++) // внутренний цикл прохода
+        for(int j = 0; j < n1; j++) 
         {     
             if (t[j + 1].points < t[j].points) 
             {
